@@ -3,6 +3,7 @@ black==26.5.1
 click==8.5.0
 coverage==7.16.1
 Django==6.1.1
+django-environ==0.14.0
 invoke==3.0.3
 isort==9.0.1
 mypy_extensions==1.1.0
